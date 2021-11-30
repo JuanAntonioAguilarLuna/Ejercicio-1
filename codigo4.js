@@ -15,7 +15,6 @@ const restar = (num1,num2)=>{
 alert("   ¿que operacion deseas realizar    ");
 operacion = prompt("1: suma, \n2: resta, \n3: division, \n4: multiplicacion")
 
-
 if(operacion == 1){
     let numero1 = prompt("primer numero a sumar");
     let numero2 = prompt("segundo numero a sumar");
